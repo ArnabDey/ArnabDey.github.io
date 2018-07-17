@@ -1,138 +1,147 @@
-    .Header
-    {
-        background-image: url("images/website front picture.jpg");
-        background-size: cover;
-        height: 100%;
-        width: 100%;
-        padding-top: 0px;
-        background-repeat: no-repeat;
-        text-align: center;
-        vertical-align: middle;
-        padding: 0px 0px 0px 0px;
-        margin-top: -20px;
+.Header
+{
+    background-image: url("images/website front picture.jpg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 0px;
+    background-repeat: no-repeat;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0px 0px 0px 0px;
+    margin-top: -20px;
 
-    }
-    .AboutMe
-    {
-        background-color: #1D2731;
-        width: 100%;
-    }
-    #AboutMeTitle
-    {
-        color:white;
+}
+.AboutMe
+{
+    background-color: #1D2731;
+    width: 100%;
+}
+#AboutMeTitle
+{
+    color:white;
+}
 
-    }
-    #SentenceBriefing
-    {
-        color: white;
-        text-align: center;
-        margin-left: 50px;
-        margin-right: 50px;
-    }
-    #NameTitle
-    {
-        color: white;
-        size: 300px;
-        text-align: center;
-        vertical-align: center;
-        padding-top: 20%;
-    }
-    #NameTitle2
-    {
-        color: white;
-        size: 300px;
-        text-align: center;
-        vertical-align: center;
-    }
-    #Education
-    {
-        background-color: #0B3C5D;
-    }
-    .EducationText
-    {
-        margin-left: 50px;
-    }
-    #ExperienceTitle
-    {
-        color: white;
-    }
-    .Experience
-    {
-        background-color: #1D2731;
+#ExperienceTitle
+{
+    color: black;
+}
+.Experience
+{
+    background-color: white;
+    width: 100%;
+}
+#SentenceBriefing
+{
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#NameTitle
+{
+    color: white;
+    size: 300px;
+    text-align: center;
+    vertical-align: center;
+    padding-top: 20%;
+}
+#NameTitle2
+{
+    color: white;
+    size: 300px;
+    text-align: center;
+    vertical-align: center;
+}
+.Education
+{
+    background-color: #1D2731;
+/*    background-color: white;
+*/}
 
-        width: 100%;
-    }
-    #Interests
-    {
-        color: white;
-        text-align: center;
-    }
+.EducationText
+{
+    color: white;
+    margin-left: 50px;
+}
 
-    .glyphicon
-    {
-        font-size: 75px;
+#Interests
+{
+    color: white;
+    text-align: center;
+}
 
-    }
-    .whiteborder
-    {
-        border-radius: 50%;
-        border-color: white;
-    }
-    #WorkTitleSection
-    {
-        text-decoration: underline;
-        margin-left: 50px;
-        color: white;
-    }
-    #WorkTitles
-    {
-        color: white;
-        margin-left: 50px;
-    }
-    #ContactLabels
-    {
-        color: white;
-        margin-left: 50px;
-    }
-    #WorkDescription
-    {
-        color: white;
-        margin-left: 50px;
-        margin-right: 50px;
-    }
-    #skills
-    {
-        margin-left: 50px;
-        margin-right: 50px;
-    }
-    #links
-    {
-        margin-left: 5%;
-        margin-right: 5%;
-    }
-    .Awards
-    {
-        background-color: #1D2731;
-        width: 100%;
-    }
-    #AwardsText
-    {
-        color: white;
-    }
-    #NameOfCompetition
-    {
-        margin-left: 50px;
-        color: white;
-    }
-    #DescriptionofCompetition
-    {
-        margin-left: 50px;
-        color: white;
-    }
-    #ContactMessage
-    {
-        color: #0B3C5D;;
-        width: 100%;
-        margin-top: 0px;
-        margin-bottom: 0px;
-    }
+.glyphicon
+{
+    font-size: 75px;
+
+}
+.whiteborder
+{
+    border-radius: 50%;
+    border-color: white;
+}
+#WorkTitleSection
+{
+    text-decoration: underline;
+    margin-left: 50px;
+    color: white;
+}
+#WorkTitles
+{
+    color: black;
+    margin-left: 50px;
+}
+#WorkDescription
+{
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.experienceContent {
+    text-align: center;
+}
+
+#ContactLabels
+{
+    color: white;
+    margin-left: 50px;
+}
+#skills
+{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#links
+{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.Awards
+{
+    background-color: #1D2731;
+    width: 100%;
+}
+#AwardsText
+{
+    color: white;
+}
+#NameOfCompetition
+{
+    margin-left: 50px;
+    color: white;
+}
+#DescriptionofCompetition
+{
+    margin-left: 50px;
+    color: white;
+}
+#ContactMessage, .ContactMe
+{
+    background-color: #1D2731;
+    color: white;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
