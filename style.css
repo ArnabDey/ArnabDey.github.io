@@ -56,13 +56,11 @@
 .Education
 {
     background-color: #1D2731;
-/*    background-color: white;
-*/}
+}
 
 .EducationText
 {
     color: white;
-    margin-left: 50px;
 }
 
 #Interests
@@ -84,19 +82,16 @@
 #WorkTitleSection
 {
     text-decoration: underline;
-    margin-left: 50px;
     color: white;
 }
 #WorkTitles
 {
     color: black;
-    margin-left: 50px;
 }
+
 #WorkDescription
 {
     color: black;
-    margin-left: 50px;
-    margin-right: 50px;
 }
 
 .experienceContent {
@@ -106,37 +101,8 @@
 #ContactLabels
 {
     color: white;
-    margin-left: 50px;
 }
-#skills
-{
-    margin-left: 50px;
-    margin-right: 50px;
-}
-#links
-{
-    margin-left: 5%;
-    margin-right: 5%;
-}
-.Awards
-{
-    background-color: #1D2731;
-    width: 100%;
-}
-#AwardsText
-{
-    color: white;
-}
-#NameOfCompetition
-{
-    margin-left: 50px;
-    color: white;
-}
-#DescriptionofCompetition
-{
-    margin-left: 50px;
-    color: white;
-}
+
 #ContactMessage, .ContactMe
 {
     background-color: #1D2731;
